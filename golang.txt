@@ -1,0 +1,10 @@
+-> Features of GoLang:
+    1. Build Time
+    2. Fast Startup
+    3. Performance and Efficiency
+    4. Cincurrency Model
+    5. Static Typing and Compilation
+    6. Cross-Platform Compilation
+    7. Security and Memory Safety
+    8. Automatic Garbage Collection
+    9. Rich Standard Library

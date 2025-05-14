@@ -1,0 +1,15 @@
+-> Variables and Variable Declaration:
+    1. Variables are containers for storing data values.
+    2. Variable is a placeholder of the information which can be changed at runtime. 
+    3. Variables allow to Retrieve and Manipulate the stored information.
+
+-> Variable Declaration:
+    1. Using the var keyword:
+        var variable_name data_type = value;
+
+    2. Short variable declaration:
+        variable_name := value;
+
+-> Most of the local variables are declared and initialized by using short variable declarations due to their brevity and flexibility.
+-> The var declaration of variables are used for those local variables which need an explicit type that differs from the initializer expression, or for those variables whose values are assigned later and the initialized value is unimportant.
+-> Using short variable declaration you are allowed to declare multiple variables in the single declaration.
